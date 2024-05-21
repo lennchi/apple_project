@@ -1,0 +1,136 @@
+﻿
+2022
+plodné celkem 138 150
+plodné konzumní 75 000
+plodné zpracování 54 000
+plodné neuplatněno 9 150
+
+extenzivní celkem 97 356
+extenzivní zpracování 28 000
+extenzivní samozásobení 48 000
+extenzivní neuplatněno 21 356
+
+
+2021
+plodné celkem 110 006
+plodné konzumní 70 000
+plodné zpracování 38 000
+plodné neuplatněno 2 006
+
+extenzivní celkem 97 356
+extenzivní zpracování 28 000
+extenzivní samozásobení 48 000
+extenzivní neuplatněno 21 356
+
+
+2020
+plodné celkem 117 801
+plodné konzumní 75 000
+plodné zpracování 40 000
+plodné neuplatněno 2 801
+
+extenzivní celkem 92 080
+extenzivní zpracování 25 000
+extenzivní samozásobení 45 000
+extenzivní neuplatněno 22 080
+
+
+2019
+plodné celkem 102 847
+plodné konzumní 62 000
+plodné zpracování 35 000
+plodné neuplatněno 5 847
+
+extenzivní celkem 89 295
+extenzivní zpracování 10 000
+extenzivní samozásobení 50 000
+extenzivní neuplatněno 29 295
+
+
+2018
+plodné celkem 144 888
+plodné konzumní 75 000
+plodné zpracování 54 888
+plodné neuplatněno 15 000
+
+extenzivní celkem 108 543
+extenzivní zpracování 25 000
+extenzivní samozásobení 55 000
+extenzivní neuplatněno 28 543
+
+
+2017
+plodné celkem 101 844
+plodné konzumní 65 000
+plodné zpracování 36 844
+
+extenzivní celkem 72 179
+extenzivní zpracování 9 000
+extenzivní samozásobení 45 000
+extenzivní neuplatněno 18 179
+
+
+2016
+plodné celkem 126 434
+plodné konzumní 65 000
+plodné zpracování 61 434
+
+extenzivní celkem 83 156
+extenzivní zpracování 27 000
+extenzivní samozásobení 35 000
+extenzivní neuplatněno 21 156
+
+
+2015
+plodné celkem 155 640
+plodné konzumní 70 000
+plodné zpracování 85 640
+
+extenzivní celkem 103 525
+extenzivní zpracování 38 000
+extenzivní samozásobení 40 000
+extenzivní neuplatněno 25 525 
+
+
+2014
+plodné celkem 130 902
+plodné konzumní 62 902
+plodné zpracování 68 000
+
+extenzivní celkem 77 088
+extenzivní zpracování 27 000
+extenzivní samozásobení 34 000
+extenzivní neuplatněno 16 088
+
+
+2013
+plodné celkem 120 602
+plodné konzumní 57 000
+plodné zpracování 63 602
+
+extenzivní celkem 73 886
+extenzivní zpracování 23 000
+extenzivní samozásobení 36 000
+extenzivní neuplatněno 14 886
+
+
+2012
+plodné celkem 117 897
+plodné konzumní 56 897
+plodné zpracování 61 000
+
+extenzivní celkem 83 589
+extenzivní zpracování 65 000
+extenzivní samozásobení 15 000
+extenzivní neuplatněno 3 589
+
+
+2011
+plodné celkem 79 134
+plodné konzumní 42 000
+plodné zpracování 37 134
+
+extenzivní celkem 79 749
+extenzivní zpracování 26 400
+extenzivní samozásobení 34 000
+extenzivní neuplatněno 19 349 
