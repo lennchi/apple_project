@@ -26,18 +26,11 @@ df['Duration'] = pd.to_timedelta(df['Duration'])
 # Only keep records for 'DA Project':
 df = df[df['Description'].str.contains('da project', case=False, na=False)]
 
-# Calc total project time and convert to HH:MM
-proj_time = df['Duration'].sum()
-
-total_seconds = int(proj_time.total_seconds())
-h = total_seconds // 3600
-m = (total_seconds % 3600) // 60
-total_proj_time = f'{h:02}:{m:02}'
-
 # Calc total time for each category of tasks that I tracked:
 tasks = ['ADMIN', 'BLOG', 'DATA CHECK', 'DATA SEARCH', 'DATA TRANSFORM', 'PRES', 'PY', 'VIZ', 'ZOOM']
 tasks_minutes = {}
 
+total_proj_min = 0
 for task in tasks:
     df_task = df[df['Description'].str.contains(task, case=False, na=False)]
     time = df_task['Duration'].sum()
@@ -45,7 +38,7 @@ for task in tasks:
     # Convert time to minutes
     total_minutes = int(time.total_seconds()) // 60    
     tasks_minutes[task.capitalize()] = total_minutes
-
+    total_proj_min += total_minutes
 
 ###################
 
@@ -76,6 +69,11 @@ plt.title('DA Project Stats', fontsize=24, fontweight='bold', color='#616161', y
 ax.axis('equal')
 
 # Add extra label in the middle with total time
+h = total_proj_min // 60
+m = total_proj_min % 60
+total_proj_time = f'{h:02}:{m:02}'
+
+
 total_time_label = f'TOTAL TIME\n{total_proj_time}'
 ax.text(0, 0, total_time_label, fontsize=10, fontweight='bold', color='#505050', ha='center', va='center')
 
