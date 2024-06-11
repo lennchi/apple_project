@@ -63,7 +63,7 @@ wedges, texts, autotexts = ax.pie(
                                 )
 
 # Catchy title ;)
-plt.title('DA Project Stats', fontsize=24, fontweight='bold', color='#616161', y=1.1)
+plt.title('Apple Project Stats', fontsize=24, fontweight='bold', color='#616161', y=1.1)
 
 # Equal aspect ratio = pie is a circle
 ax.axis('equal')
