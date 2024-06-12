@@ -1,10 +1,10 @@
 Stuff around our data project, 'Are Czech Apples Over?', for Czechitas Digital Academy – Data Analytics:
 
 - Py and SQL data cleaning scripts
-- Initial and cleaned data
-- Something extra: a py script (matlibplot) + a PNG donut chart summarizing time spent on the project:
+- Source and cleaned up data
+- Something extra: a py script (matlibplot) + a donut chart summarizing time spent on the project:
   
-![data_proj_stats_matplotlib](https://github.com/lennchi/apple_project/assets/120723526/225a3935-84e0-4547-9f39-7d1f3c956867)
+![data_proj_stats_matplotlib](https://github.com/lennchi/apple_project/assets/120723526/ec532e9f-e989-4d5a-b728-cd62c5423253)
 
 
 
