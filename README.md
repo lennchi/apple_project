@@ -11,5 +11,6 @@ Stuff around our data project __Are Czech Apples Over?__ for Czechitas Digital A
 **Project outcomes**:
 - [Blog post](https://randomstringofcharacters.medium.com/konec-jablek-v-%C4%8Dech%C3%A1ch-29c1b2838617)
 - [Tableau dashboard](https://public.tableau.com/app/profile/e.h1716/viz/Konecjablekvechch/Konecjablekvechch)
+- [Streamlit random apple picker app](https://jablko-pro-tebe.streamlit.app/)
 
 
