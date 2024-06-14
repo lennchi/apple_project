@@ -1,4 +1,4 @@
-Stuff around our data project, 'Are Czech Apples Over?', for Czechitas Digital Academy – Data Analytics:
+Stuff around our data project, __Are Czech Apples Over?__, for Czechitas Digital Academy – Data Analytics:
 
 - Py and SQL data cleaning scripts
 - Source and cleaned up data
